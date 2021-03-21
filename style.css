@@ -1,0 +1,13 @@
+h1 {
+    font-size: 10vw;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: center;
+}
+
+p {
+    font-size: 1vw;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: center;
+}
